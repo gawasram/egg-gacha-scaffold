@@ -1,0 +1,52 @@
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("10", 18)
+const faucetInstance = await Faucet.attach('0x71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+ const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("40000", 18)
+const faucetInstance = await Faucet.attach('0x71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("40000", 18)
+const faucetInstance = await Faucet.attach('0x71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("40000", 18)
+const faucetInstance = await Faucet.attach('xdc71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+const eggTokenInstance = await EggToken.attach('xdc8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("40000", 18)
+const faucetInstance = await Faucet.attach('0x71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+owner.address
+const [owner] = await ethers.getSigners();
+const hre = require("hardhat");
+await faucetInstance.depositToken(amount)
+await eggTokenInstance.approve(faucetInstance.address, amount)
+let amount = ethers.utils.parseUnits("40000", 18)
+const faucetInstance = await Faucet.attach('0x71e9774B1c70202f072326759B55c9c2a9C46E0b');
+const Faucet = await ethers.getContractFactory("Faucet");
+const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+const eggTokenInstance = await EggToken.attach('0x8544C3568Fd88BC256eef824C5232fB12fAd2F69');
+const EggToken = await ethers.getContractFactory("EggToken");
+const [owner] = await ethers.getSigners();
+const hre = require("hardhat");
+owner.address
+const [owner] = await ethers.getSigners();
+const hre = require("hardhat");
